@@ -6,7 +6,7 @@ package arbol;
 
 /**
  *
- * @author lauri
+ * @author Reinel
  */
 public class ArbolBin {
     
